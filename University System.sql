@@ -1,4 +1,4 @@
-Create Database HomeWork3;
+Create Database HomeWork3; -- Database Name
 
 Use HomeWork3;
 
